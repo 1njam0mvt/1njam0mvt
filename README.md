@@ -1,4 +1,4 @@
-[![header](https://raw.githubusercontent.com/1njam0m/1njam0m/refs/heads/main/header.png)](https://iymc.info/en/iseikh)
+[![header](https://raw.githubusercontent.com/1njam0m/1njam0m/main/assests/header.png)](https://iymc.info/en/iseikh)
   
 <samp>
   
