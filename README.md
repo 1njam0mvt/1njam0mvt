@@ -2,7 +2,6 @@
   
 <samp>
   
-:3
 
 frontend // cybersecurity // linux
 
